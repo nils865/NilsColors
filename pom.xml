@@ -8,9 +8,18 @@
   <artifactId>nils-color</artifactId>
   <version>1.0.0</version>
 
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub OWNER Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/nils865/NilsColors</url>
+    </repository>
+  </distributionManagement>
+
+
   <name>nils-color</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://www.nils865.github.io</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
