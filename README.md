@@ -2,6 +2,26 @@
 
 Simple library for colored text output in Java
 
+## Install
+
+### Without Build tools
+
+using VS Code, IntelliJ, Eclipse, etc.
+
+Download [nils-color.jar](https://github.com/nils865/NilsColors/releases/tag/v1.0.0) and put it in your `lib` folder
+
+### Maven
+
+Add this to your `pom.xml` under `dependencies`
+
+```xml
+<dependency>
+  <groupId>nils865</groupId>
+  <artifactId>nils-color</artifactId>
+  <version>1.0.0</version>
+</dependency> 
+```
+
 ## Guide
 
 Import the Color class
