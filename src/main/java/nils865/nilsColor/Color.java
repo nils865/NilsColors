@@ -1,4 +1,4 @@
-package nils865;
+package nils865.nilsColor;
 
 public class Color {
     public static AnsiColors bg = new AnsiColors(40);

@@ -1,4 +1,4 @@
-package nils865;
+package nils865.nilsColor;
 
 public class AnsiColors {
     private final String ESC = "\u001B[";
