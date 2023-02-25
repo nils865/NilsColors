@@ -18,7 +18,7 @@ Add this to your `pom.xml` under `dependencies`
 <dependency>
   <groupId>nils865</groupId>
   <artifactId>nils-color</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
 </dependency> 
 ```
 
