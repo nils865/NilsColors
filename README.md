@@ -18,7 +18,7 @@ Add this to your `pom.xml` under `dependencies`
 <dependency>
   <groupId>nils865</groupId>
   <artifactId>nils-color</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 </dependency> 
 ```
 
@@ -27,7 +27,7 @@ Add this to your `pom.xml` under `dependencies`
 Import the Color class
 
 ```java
-import nils865.Color;
+import nils865.nilsColor.Color;
 ```
 
 Color your text:
