@@ -14,7 +14,7 @@ public class AnsiColors {
     private final int CYAN = 6;
     private final int WHITE = 7;
 
-    private int modifier;
+    private final int modifier;
 
     /**
      * @param mod either 30 or 40
